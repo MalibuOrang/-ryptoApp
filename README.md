@@ -6,4 +6,5 @@ In project use API: https://www.cryptocompare.com/
 - Flutter intl
 - Dio
 - Local Database: Hive
-#Model have Serialization and Desirialization 
+
+# Model have Serialization and Desirialization 
