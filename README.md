@@ -7,4 +7,4 @@ In project use API: https://www.cryptocompare.com/
 - Dio
 - Local Database: Hive
 
-# Model have Serialization and Desirialization 
+Model have Serialization and Desirialization 
